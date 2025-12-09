@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Tushangi</h1>Data Analyst | Machine Learning Practitioner | Deep Learning Enthusiast</h3>
+**I'm Tushangi </h1> Data Analyst | Machine Learning Practitioner | Deep Learning Enthusiast</h3>**
 
 
 - 🔍 Passionate about turning data into meaningful insights  
